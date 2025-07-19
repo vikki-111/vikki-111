@@ -6,10 +6,10 @@ Just figuring stuff out
 
 ---
 
-### 🛠️ what i’m up to
+### What i’m up to
 
-- 🎓 Btech @ Gitam university  
-- writing code in c and python  
+- Btech @ Gitam university  
+- Writing code in C and python  
 - building small tools like:
   - a custom pomodoro timer  
   - a diy stream deck  
@@ -18,9 +18,9 @@ Just figuring stuff out
 ---
 
 ### 🧑‍💻 Languages I know
-
+```bash
 C, Python
-
+```
 ### Currently learning :
   Java 
   Data structures
