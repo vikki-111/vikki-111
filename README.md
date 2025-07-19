@@ -8,7 +8,7 @@ Just figuring stuff out
 
 ### What i’m up to
 
-- Btech @ Gitam university  
+- Btech @ Gitam University  
 - Writing code in C and python  
 - building small tools like:
   - a custom pomodoro timer  
