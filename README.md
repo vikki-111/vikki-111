@@ -22,5 +22,5 @@ Just figuring stuff out
 C, Python
 ```
 ### Currently learning :
-  Java 
-  Data structures
+  - Java 
+  - Data structures
