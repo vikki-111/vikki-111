@@ -12,7 +12,7 @@ Just figuring stuff out
 - Writing code in C and python  
 - building small tools like:
   - a custom pomodoro timer  
-  - a diy stream deck  
+  - a DIY stream deck  
   - a simple password manager
 
 ---
