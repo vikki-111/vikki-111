@@ -17,10 +17,11 @@ Just figuring stuff out
 
 ---
 
-### 🧑‍💻 Languages I know
+### Skills
 ```bash
-C, Python
+C, Python,Go,SQL,Git
 ```
 ### Currently learning :
   - Java 
   - Data structures
+  - HTML/CSS 
