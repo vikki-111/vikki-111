@@ -9,7 +9,6 @@ Just figuring stuff out
 ### What i’m up to
 
 - Btech @ Gitam University  
-- Writing code in C and python  
 - building small tools like:
   - a custom pomodoro timer  
   - a DIY stream deck  
