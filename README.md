@@ -6,18 +6,19 @@ Currently building REST APIs and learning system design.
 
 ## Projects
 
-**[Task Manager API](link)(ongoing)** - Spring Boot REST API with JWT authentication  
+**[Task Manager API](ongoing)** - Spring Boot REST API with JWT authentication  
 `Java` `Spring Boot` `MySQL` `JWT`
 
+<br/>
 
-**[DIY MacroPad](link)** - Custom hardware integration with Python automation  
+**[DIY MacroPad](https://github.com/vikki-111/DIY-MacroPad)** - Custom hardware integration with Python automation  
 `Python` `Arduino` `Windows API`
 
 ## Tech Stack
 
 **Languages:** Java, Python, C, Go, SQL  
 **Backend:** Spring Boot, Flask, REST APIs  
-**Frontend** HTML, CSS, JavaScript  
+**Frontend** HTML, CSS, JavaScript
 **Database:** MySQL, JPA/Hibernate  
 **Tools:** Git, Maven, Postman, SSH
 
