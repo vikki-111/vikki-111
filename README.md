@@ -6,7 +6,7 @@ Currently building REST APIs and learning system design.
 
 ## Projects
 
-**[Task Manager API](ongoing)** - Spring Boot REST API with JWT authentication  
+**[Task Manager API] (ongoing)** - Spring Boot REST API with JWT authentication  
 `Java` `Spring Boot` `MySQL` `JWT`
 
 <br/>
