@@ -1,26 +1,32 @@
-<h1 align="center">Hey, I’m Vikas 👋</h1>
+# Vikas
 
-<p align="center">
-Just figuring stuff out
-</p>
+Computer Science Student @ GITAM University
+
+Currently building REST APIs and learning system design.
+
+## Projects
+
+**[Task Manager API](link)(ongoing)** - Spring Boot REST API with JWT authentication  
+`Java` `Spring Boot` `MySQL` `JWT`
+
+
+**[DIY MacroPad](link)** - Custom hardware integration with Python automation  
+`Python` `Arduino` `Windows API`
+
+## Tech Stack
+
+**Languages:** Java, Python, C, Go, SQL  
+**Backend:** Spring Boot, Flask, REST APIs  
+**Frontend** HTML, CSS, JavaScript
+**Database:** MySQL, JPA/Hibernate  
+**Tools:** Git, Maven, Postman, SSH
+
+## Currently
+
+- Building backend systems with Spring Boot
+- Practicing data structures and algorithms
+- Learning Computer networks
 
 ---
 
-### What i’m up to
-
-- Btech @ Gitam University  
-- building small tools like:
-  - a custom pomodoro timer  
-  - a DIY stream deck  
-  - a simple password manager
-
----
-
-### Skills
-```bash
-C, Python,Go,SQL,Git
-```
-### Currently learning :
-  - Java 
-  - Data structures
-  - HTML/CSS 
+[Email](saivikas2006.2@gmail.com)
