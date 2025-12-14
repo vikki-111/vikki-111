@@ -15,12 +15,16 @@ Currently building REST APIs and learning system design.
 `Python` `Arduino` `Windows API`
 
 ## Tech Stack
-
-**Languages:** Java, Python, C, Go, SQL  
-**Backend:** Spring Boot, Flask, REST APIs  
-**Frontend** HTML, CSS, JavaScript
-**Database:** MySQL, JPA/Hibernate  
-**Tools:** Git, Maven, Postman, SSH
+  
+  **Languages:** Java, Python, C, Go, SQL  
+<br>
+  **Backend:** Spring Boot, Flask, REST APIs  
+<br>
+  **Frontend** HTML, CSS, JavaScript  
+<br>
+  **Database:** MySQL, JPA/Hibernate  
+<br>
+  **Tools:** Git, Maven, Postman, SSH
 
 ## Currently
 
