@@ -16,8 +16,8 @@ Currently building REST APIs and learning system design.
 ## Tech Stack
 
 **Languages:** Java, Python, C, Go, SQL  
-**Backend:** Spring Boot, Flask, REST APIs
-**Frontend** HTML, CSS, JavaScript
+**Backend:** Spring Boot, Flask, REST APIs  
+**Frontend** HTML, CSS, JavaScript  
 **Database:** MySQL, JPA/Hibernate  
 **Tools:** Git, Maven, Postman, SSH
 
