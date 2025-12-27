@@ -24,7 +24,7 @@ Currently building REST APIs and learning system design.
 <br>
   **Database:** MySQL, JPA/Hibernate  
 <br>
-  **Tools:** Git, Maven, Postman, SSH
+  **Tools:** Git, Postman, SSH, cURL
 
 ## Currently
 
