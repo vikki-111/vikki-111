@@ -1,39 +1,35 @@
 # Vikas
 
-Computer Science Student @ GITAM University
-
-Currently building REST APIs and learning system design.
+A CS student who wanted to build systems and ended up wanting to break them.
 
 ## Projects
-
 
 **[DIY MacroPad](https://github.com/vikki-111/DIY-MacroPad)** - Custom hardware integration with Python automation  
 `Python` `Arduino` `Windows API`
 
-<br/>
-
-
-**[GoalPilot]()** - Goal-setting and performance tracking portal for modern organizations
-`Typescript` `Supabase` `Postgresql` `Azure and Teams`
+**[GoalPilot](https://github.com/vikki-111/goalpilot)** - Goal-setting and performance tracking portal for modern organizations  
+`TypeScript` `Supabase` `PostgreSQL` `Azure` `Teams`
 
 ## Tech Stack
-  
-  **Languages:** Java, Python, C, Go, SQL  
-<br>
-  **Backend:** Spring Boot, Flask, REST APIs , Flyway Migrations, Redis, Load balancing
-<br>
-  **Frontend** HTML, CSS, JavaScript  
-<br>
-  **Database:** MySQL, JPA/Hibernate, Postgres
-<br>
-  **Tools:** Git, SSH, cURL, Maven
+
+**Languages:** Java, Python, C, Go, SQL
+
+**Backend:** Spring Boot, Flask, Node.js, Express, REST APIs, Flyway, Redis, JWT
+
+**Frontend:** HTML, CSS, JavaScript, React
+
+**Database:** MySQL, PostgreSQL, JPA/Hibernate
+
+**Tools:** Git, SSH, cURL, Maven, Postman, IntelliJ, Docker
+
+**Security:** GDB, Ghidra
 
 ## Currently
 
-- Building backend systems with Spring Boot
-- Practicing data structures and algorithms
-- Learning Computer networks
+- Working through pwn.college and HTB
+- Competing in CTFs (RE/Pwn)
+- Building toward offensive security
 
 ---
 
-[Email](saivikas2006.2@gmail.com)
+[Email](mailto:saivikas2006@gmail.com)
