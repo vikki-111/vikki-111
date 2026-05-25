@@ -27,7 +27,6 @@ A CS student who wanted to build systems and ended up wanting to break them.
 ## Currently
 
 - Working through pwn.college and HTB
-- Competing in CTFs (RE/Pwn)
 - Building toward offensive security
 
 ---
