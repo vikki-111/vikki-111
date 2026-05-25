@@ -12,10 +12,6 @@ Currently building REST APIs and learning system design.
 
 <br/>
 
-**[Expense Tracker API](https://github.com/vikki-111/expense-tracker)** - Spring Boot REST API with JWT authentication  
-`Java` `Spring Boot` `MySQL` `JWT`
-
-<br/>
 
 **[GoalPilot]()** - Goal-setting and performance tracking portal for modern organizations
 `Typescript` `Supabase` `Postgresql` `Azure and Teams`
@@ -24,13 +20,13 @@ Currently building REST APIs and learning system design.
   
   **Languages:** Java, Python, C, Go, SQL  
 <br>
-  **Backend:** Spring Boot, Flask, REST APIs  
+  **Backend:** Spring Boot, Flask, REST APIs , Flyway Migrations, Redis, Load balancing
 <br>
   **Frontend** HTML, CSS, JavaScript  
 <br>
   **Database:** MySQL, JPA/Hibernate, Postgres
 <br>
-  **Tools:** Git, Postman, SSH, cURL, Maven
+  **Tools:** Git, SSH, cURL, Maven
 
 ## Currently
 
