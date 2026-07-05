@@ -23,7 +23,7 @@ CS student who likes building backend systems — and likes it even more once so
 - Building an event-driven order system — Kafka, the transactional outbox pattern, saga-based compensation
 
 
----
+
 ---
 
 [Email](mailto:saivikas2006@gmail.com)
