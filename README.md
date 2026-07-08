@@ -1,28 +1,30 @@
 # Vikas
 
-CS student who likes building backend systems — and likes it even more once something breaks under load and I get to find out why.
+Backend-focused CS student — Spring Boot, Kafka, distributed systems. I've got real
+opinions about Postgres transaction isolation levels now, for better or worse.
 
 ## Projects
+
+**[Event-Driven Order System](https://github.com/vikki-111/event-driven-order-system)** — 3-service order saga in Spring Boot + Kafka using the transactional outbox pattern, with automatic refund and cancellation when inventory fails after payment succeeds
+`Java` `Spring Boot` `Kafka` `PostgreSQL` `Docker` `React`
+
+**[GoalPilot](https://github.com/vikki-111/goalpilot)** — Full-lifecycle goal management platform with Azure AD SSO, Microsoft Graph role sync, and Teams notifications; authorization enforced via Postgres row-level security, not application code
+`TypeScript` `React` `Supabase` `PostgreSQL` `Azure AD` `Teams`
 
 **[DIY MacroPad](https://github.com/vikki-111/DIY-MacroPad)** — Arduino macropad with custom firmware and a Python-Windows bridge, driving hotkeys, macros, and app launching over serial
 `Python` `Arduino` `Windows API`
 
-**[GoalPilot](https://github.com/vikki-111/goalpilot)** — Goal-setting and performance-tracking platform with Microsoft Teams integration, built on Supabase/Postgres and deployed on Azure
-`TypeScript` `Supabase` `PostgreSQL` `Azure` `Teams`
-
 ## Tech Stack
 
-**Languages:** Java, Python, C, Go, SQL
-**Backend:** Spring Boot, Flask, Node.js, Express, REST APIs, Kafka, Flyway, Redis, JWT
-**Frontend:** HTML, CSS, JavaScript, React
-**Database:** MySQL, PostgreSQL, JPA/Hibernate
-**Tools:** Git, SSH, cURL, Maven, Postman, IntelliJ, Docker
+**Languages:** Java, Python, TypeScript, C, Go, SQL
+**Backend:** Spring Boot, Spring Security, Flask, Node.js, Express, REST APIs, Kafka, Flyway, JWT
+**Frontend:** React, JavaScript, HTML, CSS
+**Database:** PostgreSQL, MySQL, Redis, JPA/Hibernate
+**Cloud/Deploy:** Vercel, Railway, Supabase, Azure, Docker
+**Tools:** Git, Maven, Postman, IntelliJ, Testcontainers, k6
 
 ## Currently
-
-- Building an event-driven order system — Kafka, the transactional outbox pattern, saga-based compensation
-
-
+- Deciding what's next — an open-source contribution, maybe another project, maybe.
 
 ---
 
