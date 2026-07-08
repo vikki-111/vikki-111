@@ -16,13 +16,13 @@ opinions about Postgres transaction isolation levels now, for better or worse.
 
 ## Tech Stack
 
-**Languages:** Java, Python, TypeScript, C, Go, SQL
-**Backend:** Spring Boot, Spring Security, Flask, Node.js, Express, REST APIs, Kafka, Flyway, JWT
-**Frontend:** React, JavaScript, HTML, CSS
-**Database:** PostgreSQL, MySQL, Redis, JPA/Hibernate
-**Cloud/Deploy:** Vercel, Railway, Supabase, Azure, Docker
-**Tools:** Git, Maven, Postman, IntelliJ, Testcontainers, k6
-
+**Languages:** Java, Python, TypeScript, C, Go, SQL <br/>
+**Backend:** Spring Boot, Spring Security, Flask, Node.js, Express, REST APIs, Kafka, Flyway, JWT <br/>
+**Frontend:** React, JavaScript, HTML, CSS <br/>
+**Database:** PostgreSQL, MySQL, Redis, JPA/Hibernate <br/>
+**Cloud/Deploy:** Vercel, Railway, Supabase, Azure, Docker <br/>
+**Tools:** Git, Maven, Postman, IntelliJ, Testcontainers, k6 <br/>
+<br/>
 ## Currently
 - Deciding what's next — an open-source contribution, maybe another project, maybe.
 
